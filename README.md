@@ -28,3 +28,10 @@ terraform validate
 ```bash
 terraform apply
 ```
+
+## Security
+
+In order to keep everything secret, no passwords are specified in this repo.
+
+To get the password, you should head over to the DigitalOcean UI for your database, 
+**REGENERATE THE PASSWORD**, and use the new password.
